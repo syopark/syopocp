@@ -11,7 +11,7 @@ out
 .classpath
 .project
 .settings/
-
+target/
  
 bin/
 gen/
